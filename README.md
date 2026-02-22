@@ -1,1 +1,1 @@
-# Personalised-Academic-Assistant-using-Agentic-A
+# Personalised-Academic-Assistant-using-Agentic-AI
